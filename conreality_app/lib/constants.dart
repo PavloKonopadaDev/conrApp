@@ -248,4 +248,4 @@ const String titleforfourthcard = "How to create";
 const String subtitleforfourthcard = "Your first map";
 const String imageforfourthcard = "assets/images/OnBoardimage2.png";
 const String textforfourthcard =
-    "You can add additional items to the \n map, such as: cartridges, first aid \n kit, turret, flag";
+    "You can add additional items to the \n masp, such as: cartridges, first aid \n kit, turret, flag";
