@@ -242,7 +242,7 @@ const String titleforthirdcard = "How to create";
 const String subtitleforthirdcard = "Your first map";
 const String imageforthirdcard = "assets/images/OnBoardimage2.png";
 const String textforthirdcard =
-    "By clicking on the point it is \n possible to delete it";
+    "By clicking on the point it is \n possible to delete its";
 //4
 const String titleforfourthcard = "How to create";
 const String subtitleforfourthcard = "Your first map";
